@@ -1,0 +1,37 @@
+# Entorno virtual
+Entorno/
+
+# Archivos y directorios de Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de entorno
+.env
+*.env
+
+# Dependencias
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de desarrollo
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Base de datos SQLite
+*.sqlite3
+
+# Caché y archivos temporales
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+
+
